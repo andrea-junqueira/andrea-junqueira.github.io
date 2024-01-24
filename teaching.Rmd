@@ -8,19 +8,27 @@ title: ""
 
 <font size="4"> ***Instructor of Record*** </font>
 
+
+<font size="2"> **Arkansas State University** </font>
+
+<p>POSC 4003: Special Topics: Latin America<br>
+Undergraduate level<br>
+Spring 2024<br>
+
 <p>POSC 3003: Introduction to Political Analysis<br>
 Undergraduate level<br>
-Arkansas State University<br>
-Fall 2023<br>
+Fall 2023, Spring 2024<br>
+<a href="./POSC3003(61350.202360)2023FallINTRODUCTIONTOPOLITICALANALYSIS(POSC-3003-001)_AndreaJunqueiraMachado.pdf" target="_blank">Evaluations Fall 2023 (PDF)</a> <br>
 
 <p>POSC 4143: Public Opinion and Public Policy<br>
 Undergraduate level<br>
-Arkansas State University<br>
 Fall 2023<br>
+<a href="./POSC4143(64689.202360)2023FallPUBLICOPINIONANDPUBLICPOLICY(POSC-4143-001)_AndreaJunqueiraMachado.pdf" target="_blank">Evaluations Fall 2023 (PDF)</a> <br>
+
+<font size="2"> **Texas A&M University** </font>
 
 <p>POLS 323: Political Systems of Latin America<br>
 Undergraduate level<br>
-Texas A&M University<br>
 Fall 2021 and Spring 2022<br>
 <a href="./survey_results_aggregate_20220103_1632.pdf" target="_blank">Evaluations Fall 2021 (PDF)</a> <br>
 <a href="./survey_results_aggregate_20220823_1014.pdf" target="_blank">Evaluations Spring 2022 (PDF)</a> </p>

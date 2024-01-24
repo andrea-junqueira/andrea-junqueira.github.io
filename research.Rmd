@@ -2,9 +2,9 @@
 title: ""
 ---
 
-<font size="6"> Publications, and Works Under Review</font>
+<font size="6"> Peer-Reviewed Articles</font>
 
-<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. 2023. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
+<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. Forthcoming. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName2" center> Abstract </button>  
 <div id="BlockName2" class="collapse">  
@@ -54,17 +54,7 @@ Our analysis of Granger causal ordering between the four variables demonstrates 
 <br /> 
 
 
-<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. "Volatile Pies: Modeling Compositional Volatility." *Revise and Resubmit*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
-<div id="BlockName6" class="collapse">  
-
-*Objective*: To demonstrate the utility of modeling compositional volatility in substantive domains beyond budgeting. *Methods*: We show how to model compositional volatility on its own or as a part of a system of equations in which the component parts of the compositional outcome variable are also modeled. *Results*: Using data on the volatility of support for German political parties, we demonstrate the usefulness of stand-alone models of compositional volatility. Using data on the volatility of income shares in the United States, we demonstrate the usefulness of modeling volatility together with compositional components. *Conclusion*: There is considerable potential for modeling compositional volatility.
-
-</div>
-
-<br /> 
-
+<font size="6"> Under Review </font>
 
 <font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Revise and Resubmit*. </font>
 
@@ -78,23 +68,39 @@ Does the election of politicians from historically marginalized groups spur othe
 <br /> 
 
 
+<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. "Volatile Pies: Modeling Compositional Volatility." *Revise and Resubmit*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
+<div id="BlockName6" class="collapse">  
+
+*Objective*: To demonstrate the utility of modeling compositional volatility in substantive domains beyond budgeting. *Methods*: We show how to model compositional volatility on its own or as a part of a system of equations in which the component parts of the compositional outcome variable are also modeled. *Results*: Using data on the volatility of support for German political parties, we demonstrate the usefulness of stand-alone models of compositional volatility. Using data on the volatility of income shares in the United States, we demonstrate the usefulness of modeling volatility together with compositional components. *Conclusion*: There is considerable potential for modeling compositional volatility.
+
+</div>
+
+<br /> 
+
+
+<font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "Preventing a War of All Against All: Geographic Sorting in OLPR Electoral Systems." *Under review*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName10" center> Abstract </button>  
+<div id="BlockName10" class="collapse">  
+
+In open-list proportional representation (OLPR) systems, candidates must obtain personal votes to succeed. Conventional wisdom about these systems is that they induce intraparty competition and, ultimately, weak political parties. In this paper, we argue that, even under extreme institutional conditions, parties face incentives to limit competition among co-partisans. To evaluate this argument, we create the first measure of intraparty competition to incorporate the spatial distribution of all votes in the district. Using polling station-level data in Brazil, we show that about fifty percent of parties coordinate competition among co-partisans by limiting the number of strong candidates in the list or selecting candidates whose electoral bases do not overlap. We also show that electorally strong parties are more prone to coordination and that coordination leads to electoral success. Our findings challenge the perception of weak parties in OLPR systems, highlighting strategic coordination as a prevalent phenomenon even in permissive electoral environments.
+
+</div>
+
+<br /> 
 
 
 
-
-
-
-
-
-
-<font size="6"> Selected Works in Progress</font>
+<font size="6"> Selected Work in Progress</font>
 
 <font size="3"> Junqueira, Andrea. "The Political Economy of the Heavy Hand: How Poverty Reduces Politicians' Incentives to Reform Security Policies." *In Progress*. </font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName5" center> Abstract </button>  
 <div id="BlockName5" class="collapse">  
 
-In democracies, how can coercive security policies that violate the rights of many be so pervasive, even when those most affected by their negative consequences are a large share of the population? I argue that the explanation can be found by examining voters' incentives to demand security vis-à-vis other policies. Among low-income citizens, security concerns compete with other immediate needs, including food and shelter, thereby reducing the relative importance of violence as the primary driver of political demands. In response, strategic politicians become less responsive to the preferences of the poor on this policy dimension. With a multi-method research approach, I test the implications of my theory using a difference-in-differences-in-differences (DDD) design of electoral results and an original survey experiment with politicians. I find that low-income voters are less responsive to violence shocks and that politicians emphasize security concerns less when trying to attract the vote of low-income citizens relative to the wealthy.
+In democracies, how can coercive security policies that violate the rights of many be so pervasive, even when those most affected by their negative consequences are a large share of the population? I argue that the explanation can be found by examining voters' incentives to demand security vis-a-vis other policies. Among low-income citizens, security concerns compete with other immediate needs, including food and shelter, thereby reducing the relative importance of violence as the primary driver of political demands. In response, strategic politicians become less responsive to the preferences of the poor on this policy dimension. With a multi-method research approach, I test the implications of my theory using a difference-in-differences-in-differences (DDD) design of electoral results and an original survey experiment with politicians. I find that low-income voters are less responsive to violence shocks and that politicians emphasize security concerns less when trying to attract the vote of low-income citizens relative to the wealthy.
 
 </div>
 
@@ -107,18 +113,6 @@ In democracies, how can coercive security policies that violate the rights of ma
 <div id="BlockName11" class="collapse">  
 
 Rapid urbanization increases the need to produce public goods, particularly in developing countries, where underprovision and unequal access to services are common. Many public services and development projects are tied to specific neighborhoods, where citizens vote at polling stations whose vote shares are publicly known. We argue that even in "at large electoral systems," the local nature of public services provision creates incentives for voters to demand narrow local representation and for local politicians to respond to specific requests and interests of a given group of constituencies within the city, often at the expense of others. We test our expectations by exploring variation in sub-municipal service provision in three major cities in Latin America: Sao Paulo, Bogota, and Fortaleza. Our manuscript focuses on our empirical findings and the complex challenges facing scholars studying sub-municipal outcomes in multiple cases. Our results speak to the difficulties of overcoming underdevelopment and achieving democratic consolidation in the global south.
-
-</div>
-
-<br /> 
-
-
-<font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "A War of All Against All? Analyzing Spatial Dependence in Intraparty Competition in Open-list Proportional Representation Systems." *In progress*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName10" center> Abstract </button>  
-<div id="BlockName10" class="collapse">  
-
-In open-list proportional representation (OLPR) systems, candidates must obtain personal votes to succeed. A general expectation about these systems is that they induce intraparty competition and, ultimately, lead to weak political parties. Recent work has challenged this view, suggesting that even under very permissive conditions, candidate lists reflect a significant degree of coordination, which prevents the emergence of internecine competition among co-partisans. In this paper we develop a measure of intraparty competition at the level of the party list. We implement this measure with data from elections for the Brazilian national Chamber of Deputies at the precinct level. We show, first, that our measure detects the presence of a significant degree of intraparty competition but that, second, there is considerable variation across parties and across districts in how well the lists are coordinated. We explore some of the reasons for this variation and conclude with a discussion of next steps in research on open-list proportional representation electoral systems.
 
 </div>
 
@@ -151,4 +145,15 @@ autoregression framework. We demonstrate the utility of our modeling approach wi
 
 <br /> 
 
+
+<font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "Legal Equality and Effective Inequality: Mapping Representation Across Neighborhoods in Brazil." *In progress*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName13" center> Abstract </button>  
+<div id="BlockName13" class="collapse">  
+
+
+
+</div>
+
+<br /> 
 
