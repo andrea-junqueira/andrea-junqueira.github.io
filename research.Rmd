@@ -4,12 +4,58 @@ title: ""
 
 <font size="6"> Peer-Reviewed Articles</font>
 
-<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. Forthcoming. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
+<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. Forthcoming.  "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName14" center> Abstract </button>  
+<div id="BlockName14" class="collapse">  
+
+The ability of voters to accurately perceive the ideological positions of political parties
+is foundational to the democratic process. Existing research has demonstrated
+that in parliamentary democracies, voters rely on information about coalition status
+to navigate the complexities of placing parties on an ideologically coherent scale. We
+contribute to this literature by investigating the role of coalitions as a heuristic tool
+in presidential democracies. We argue that the central role of the president in coalition
+formation and operation, combined with the higher complexity of party systems,
+makes coalition information in these democracies more accessible and understandable
+primarily among sophisticated voters. Testing our hypotheses with data from three
+presidential democracies, we find, as expected, that sophisticated voters are more likely
+than less sophisticated voters to perceive parties in coalition with the president's party
+as ideologically closer to the party of the president.
+
+</div>
+
+<br /> 
+
+
+<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. 2024. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName2" center> Abstract </button>  
 <div id="BlockName2" class="collapse">  
 
 The party politics literature suggests that an institutionalized party system can be key for well-functioning democracies. Do the benefits of strong parties also extend to women's descriptive representation? We argue that increasing parties' strength can perpetuate and even intensify parties' pre-existing patterns of exclusion of particular groups, including women, when elites are gender-biased. While stronger parties are better able to carry out their organizational goals, we contend that increasing gender equity is often not part of such goals. To evaluate this argument, we combine an exogenous electoral reform that increased parties' ability to control their members in Brazil with a regression discontinuity design. We find that while the reform increased parties' ability to pursue their organizational goals, it increased the gap in votes between men and women. Further, we demonstrate that the behavior of men towards women co-partisans drives this pattern. These findings highlight the unintended consequences of institutional engineering.
+
+</div>
+
+<br /> 
+
+<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. 2024. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Political Behavior*. Available [here](https://link.springer.com/article/10.1007/s11109-024-09959-1).</font> 
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName7" center> Abstract </button>  
+<div id="BlockName7" class="collapse">  
+
+Does the election of politicians from historically marginalized groups spur others to enter politics? Some political scientists and policymakers posit that the election of women and people of color to prominent political offices can inspire others to run for office, yet prior research has yielded mixed results. We contribute to the literature on representation by exploring the impact of role models on candidate emergence at the local level, where aspiring politicians typically begin to climb the political ladder. Using data from Brazilian elections and a set of regression discontinuity designs, we find no evidence that the election of a woman or Afro-Brazilian mayor spurs women and Afro-Brazilians to run for city council positions. Our results, which are robust to several alternative specifications, suggest that even if the election of a woman or minority politician inspires others to enter politics, barriers may impede them from running for office.
+
+</div>
+
+<br /> 
+
+
+<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. 2024. "Volatile Pies: Modeling Compositional Volatility." *Social Science Quartely*. Available [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13406).</font> 
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
+<div id="BlockName6" class="collapse">  
+
+*Objective*: To demonstrate the utility of modeling compositional volatility in substantive domains beyond budgeting. *Methods*: We show how to model compositional volatility on its own or as a part of a system of equations in which the component parts of the compositional outcome variable are also modeled. *Results*: Using data on the volatility of support for German political parties, we demonstrate the usefulness of stand-alone models of compositional volatility. Using data on the volatility of income shares in the United States, we demonstrate the usefulness of modeling volatility together with compositional components. *Conclusion*: There is considerable potential for modeling compositional volatility.
 
 </div>
 
@@ -56,29 +102,6 @@ Our analysis of Granger causal ordering between the four variables demonstrates 
 
 <font size="6"> Under Review </font>
 
-<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Revise and Resubmit*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName7" center> Abstract </button>  
-<div id="BlockName7" class="collapse">  
-
-Does the election of politicians from historically marginalized groups spur others to enter politics? Some political scientists and policymakers posit that the election of women and people of color to prominent political offices can inspire others to run for office, yet prior research has yielded mixed results. We contribute to the literature on representation by exploring the impact of role models on candidate emergence at the local level, where aspiring politicians typically begin to climb the political ladder. Using data from Brazilian elections and a set of regression discontinuity designs, we find no evidence that the election of a woman or Afro-Brazilian mayor spurs women and Afro-Brazilians to run for city council positions. Our results, which are robust to several alternative specifications, suggest that even if the election of a woman or minority politician inspires others to enter politics, barriers may impede them from running for office.
-
-</div>
-
-<br /> 
-
-
-<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. "Volatile Pies: Modeling Compositional Volatility." *Revise and Resubmit*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
-<div id="BlockName6" class="collapse">  
-
-*Objective*: To demonstrate the utility of modeling compositional volatility in substantive domains beyond budgeting. *Methods*: We show how to model compositional volatility on its own or as a part of a system of equations in which the component parts of the compositional outcome variable are also modeled. *Results*: Using data on the volatility of support for German political parties, we demonstrate the usefulness of stand-alone models of compositional volatility. Using data on the volatility of income shares in the United States, we demonstrate the usefulness of modeling volatility together with compositional components. *Conclusion*: There is considerable potential for modeling compositional volatility.
-
-</div>
-
-<br /> 
-
 
 <font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "Preventing a War of All Against All: Geographic Sorting in OLPR Electoral Systems." *Under review*. </font>
 
@@ -86,29 +109,6 @@ Does the election of politicians from historically marginalized groups spur othe
 <div id="BlockName10" class="collapse">  
 
 In open-list proportional representation (OLPR) systems, candidates must obtain personal votes to succeed. Conventional wisdom about these systems is that they induce intraparty competition and, ultimately, weak political parties. In this paper, we argue that, even under extreme institutional conditions, parties face incentives to limit competition among co-partisans. To evaluate this argument, we create the first measure of intraparty competition to incorporate the spatial distribution of all votes in the district. Using polling station-level data in Brazil, we show that about fifty percent of parties coordinate competition among co-partisans by limiting the number of strong candidates in the list or selecting candidates whose electoral bases do not overlap. We also show that electorally strong parties are more prone to coordination and that coordination leads to electoral success. Our findings challenge the perception of weak parties in OLPR systems, highlighting strategic coordination as a prevalent phenomenon even in permissive electoral environments.
-
-</div>
-
-<br /> 
-
-
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Under review*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName14" center> Abstract </button>  
-<div id="BlockName14" class="collapse">  
-
-The ability of voters to accurately perceive the ideological positions of political parties
-is foundational to the democratic process. Existing research has demonstrated
-that in parliamentary democracies, voters rely on information about coalition status
-to navigate the complexities of placing parties on an ideologically coherent scale. We
-contribute to this literature by investigating the role of coalitions as a heuristic tool
-in presidential democracies. We argue that the central role of the president in coalition
-formation and operation, combined with the higher complexity of party systems,
-makes coalition information in these democracies more accessible and understandable
-primarily among sophisticated voters. Testing our hypotheses with data from three
-presidential democracies, we find, as expected, that sophisticated voters are more likely
-than less sophisticated voters to perceive parties in coalition with the president's party
-as ideologically closer to the party of the president.
 
 </div>
 

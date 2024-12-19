@@ -3,7 +3,7 @@ title: ""
 pagetitle: "Andrea Junqueira"
 ---
 
-<img src="/Users/ajunqueira/Library/CloudStorage/Dropbox/website/andrea-junqueira.github.io/bruno-thethe-br.jpg" class="inline" width="1300"/>
+<img src="/Users/ajunqueira/Library/CloudStorage/Dropbox-A-State/Andrea Junqueira/website/andrea-junqueira.github.io/bruno-thethe-br.jpg" class="inline" width="1300"/>
 
 <div style="text-align: right"> <font size="1">Photo by Bruno Thethe on Unsplash</font> </div>
 
@@ -12,18 +12,16 @@ pagetitle: "Andrea Junqueira"
 <br /> 
 
 
-<img src="/Users/ajunqueira/Library/CloudStorage/Dropbox/website/andrea-junqueira.github.io/IMG-3979-modified.png" style="inline" width="240" align="left"/>
+<img src="/Users/ajunqueira/Library/CloudStorage/Dropbox-A-State/Andrea Junqueira/website/andrea-junqueira.github.io/IMG-3979-modified.png" style="inline" width="240" align="left"/>
 
 
 <div style="padding-left:300px">
 
-I am an Assistant Professor in the Department of Political Science at Arkansas State University.
+I am an Assistant Professor in the Department of Government, Law & Policy at Arkansas State University. 
 
-My research interests focus on the intersection between economic development, representation, and comparative public policy. 
+My research interests lie at the intersection of economic development, representation, and comparative public policy. 
 
-My book project is an extension of my dissertation and investigates how poverty and income inequality affect democratic politics, focusing on their consequences for security policy.
-
-I am also producing research in the areas of urban politics, gender and racial politics, coalition governments, and political methodology.
+My work has been published in the *Journal of Politics*, *Political Behavior*, and *Social Science Quarterly*.
 
 </div>
 
