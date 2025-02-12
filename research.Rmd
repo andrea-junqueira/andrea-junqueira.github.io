@@ -50,7 +50,7 @@ Does the election of politicians from historically marginalized groups spur othe
 <br /> 
 
 
-<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. 2024. "Volatile Pies: Modeling Compositional Volatility." *Social Science Quartely*. Available [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13406).</font> 
+<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. 2024. "Volatile Pies: Modeling Compositional Volatility." *Social Science Quarterly*. Available [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13406).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
 <div id="BlockName6" class="collapse">  
@@ -62,7 +62,7 @@ Does the election of politicians from historically marginalized groups spur othe
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Ali Kagalwala, and Christine Lipsmeyer. 2023. "What's Your Problem? How Issue Ownership and Partisan Discourse Influence Personal Concerns." *Social Science Quartely*. Available [here](https://doi.org/10.1111/ssqu.13259).</font>
+<font size="3"> Junqueira, Andrea, Ali Kagalwala, and Christine Lipsmeyer. 2023. "What's Your Problem? How Issue Ownership and Partisan Discourse Influence Personal Concerns." *Social Science Quarterly*. Available [here](https://doi.org/10.1111/ssqu.13259).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName3" center> Abstract </button>  
 <div id="BlockName3" class="collapse">  
@@ -74,7 +74,7 @@ Does the election of politicians from historically marginalized groups spur othe
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2023. "What About Us? Political Competition, Economic Performance, Immigration, and Nativist Appeals." *Social Science Quartely*. Available [here](https://doi.org/10.1111/ssqu.13240).</font>
+<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2023. "What About Us? Political Competition, Economic Performance, Immigration, and Nativist Appeals." *Social Science Quarterly*. Available [here](https://doi.org/10.1111/ssqu.13240).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName4" center> Abstract </button>  
 <div id="BlockName4" class="collapse">  
@@ -87,7 +87,7 @@ parties and how economic performance shapes nativist appeals by opposition parti
 <br /> 
 
 
-<font size="3"> Barberia, Lorena, Maria Leticia Claro Oliveira, Andrea Junqueira, Natalia Moreria, and Guy Whitten. 2021. "Should I Stay or Should I Go? Embracing Causal Heterogeneity in the Study of Pandemic Policy and Citizen Behavior." *Social Science Quartely*. Available [here](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13037).</font> 
+<font size="3"> Barberia, Lorena, Maria Leticia Claro Oliveira, Andrea Junqueira, Natalia Moreria, and Guy Whitten. 2021. "Should I Stay or Should I Go? Embracing Causal Heterogeneity in the Study of Pandemic Policy and Citizen Behavior." *Social Science Quarterly*. Available [here](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13037).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName" center> Abstract </button>  
 <div id="BlockName" class="collapse">  
@@ -115,7 +115,7 @@ In open-list proportional representation (OLPR) systems, candidates must obtain 
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Diana O'Brien, Matthew Hayes, Jongwoo Jeong, Brian Crisp, and Matthew Gable. "Race, Gender, and Nascent Political Ambition." *Under review*. </font>
+<font size="3"> Junqueira, Andrea, Diana O'Brien, Matthew Hayes, Jongwoo Jeong, Brian Crisp, and Matthew Gable. "Race, Gender, and Nascent Political Ambition." *Revise and Resubmit*. </font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName15" center> Abstract </button>  
 <div id="BlockName15" class="collapse">  
