@@ -4,7 +4,7 @@ title: ""
 
 <font size="6"> Peer-Reviewed Articles</font>
 
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. Forthcoming.  "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. </font>
+<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2025. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. Available [here](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2427022).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName14" center> Abstract </button>  
 <div id="BlockName14" class="collapse">  
