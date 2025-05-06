@@ -4,6 +4,29 @@ title: ""
 
 <font size="6"> Peer-Reviewed Articles</font>
 
+<font size="3"> Junqueira, Andrea, Diana O'Brien, Matthew Hayes, Jongwoo Jeong, Brian Crisp, and Matthew Gable. Forthcoming. "Race, Gender, and Nascent Political Ambition." *British Journal of Political Science*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName15" center> Abstract </button>  
+<div id="BlockName15" class="collapse">  
+
+We offer a comprehensive analysis of nascent political ambition across racial/ethnic
+groups and gender. Our original survey data, which over-samples Black and Hispanic
+respondents, reveals that the gap in nascent political ambition is not between men and
+women, but rather between white men and the majority of the polity. There is no
+significant gender gap in political ambition among Black and Hispanic respondents, nor
+between Black and Hispanic men and white women. This race-gender ambition gap is
+most present for local offices, where many politicians start their political careers. Our
+findings highlight the importance of encouragement in shaping political ambition. White
+men are particularly responsive to encouragement from non-political sources, but the
+ambition gaps close when respondents receive encouragement from political sources.
+This suggests that political parties can play a crucial role in remediating the racegender ambition gap by actively recruiting and encouraging qualified candidates from
+diverse backgrounds.
+
+</div>
+
+<br /> 
+
+
 <font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2025. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. Available [here](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2427022).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName14" center> Abstract </button>  
@@ -106,30 +129,6 @@ Our analysis of Granger causal ordering between the four variables demonstrates 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName20" center> Abstract </button>  
 <div id="BlockName20" class="collapse">  
-
-</div>
-
-<br /> 
-
-
-
-<font size="3"> Junqueira, Andrea, Diana O'Brien, Matthew Hayes, Jongwoo Jeong, Brian Crisp, and Matthew Gable. "Race, Gender, and Nascent Political Ambition." *Revise and Resubmit*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName15" center> Abstract </button>  
-<div id="BlockName15" class="collapse">  
-
-We offer a comprehensive analysis of nascent political ambition across racial/ethnic
-groups and gender. Our original survey data, which over-samples Black and Hispanic
-respondents, reveals that the gap in nascent political ambition is not between men and
-women, but rather between white men and the majority of the polity. There is no
-significant gender gap in political ambition among Black and Hispanic respondents, nor
-between Black and Hispanic men and white women. This race-gender ambition gap is
-most present for local offices, where many politicians start their political careers. Our
-findings highlight the importance of encouragement in shaping political ambition. White
-men are particularly responsive to encouragement from non-political sources, but the
-ambition gaps close when respondents receive encouragement from political sources.
-This suggests that political parties can play a crucial role in remediating the racegender ambition gap by actively recruiting and encouraging qualified candidates from
-diverse backgrounds.
 
 </div>
 
