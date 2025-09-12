@@ -2,6 +2,19 @@
 title: ""
 ---
 
+<font size="6"> Book</font>
+
+<font size="3"> Cunha Silva, Patrick, Andrew Janusz, and Andrea Junqueira. "Intersectional Institutionalism: How District Magnitude Affects the Representation of Marginalized Groups." *Under Contract with Cambridge University Press*. </font>
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName20" center> Abstract </button>  
+<div id="BlockName20" class="collapse">  
+
+There is a consensus that electoral institutions affect how well legislatures descriptively represent their citizens. Most research to date, however, assumes that institutions affect members of different groups in the same way. In this book project, we draw on intersectional theories, which recognize gender and racial identities as mutually constitutive and interconnected, and contend that institutions have disparate effects on individuals holding different combinations of gender and racial identities. Our argument focuses primarily on district magnitude, which, when increased, leads aspiring politicians, party leaders, and voters to act in very different ways. Using a massive dataset with information on three different Brazilian elections and more than 1.2 million candidates, we estimate the causal impact of district magnitude on the emergence and electoral success of candidates with different gender and racial identities, both independently as well as interactively. We show that district magnitude has a positive effect on the emergence of candidates from historically underrepresented groups, but the size of the effect varies across groups. Moreover, we show that more diverse candidate fields do not translate into more diverse legislatures. In Brazil, as district magnitude increases, elected legislatures become less representative of women (whites and Afro-Brazilians) because competition increases and their access to campaign resources declines. These results demonstrate that electoral institutions have disparate effects on individuals with different combinations of race-gender identities.
+
+</div>
+
+<br /> 
+
 <font size="6"> Peer-Reviewed Articles</font>
 
 <font size="3"> Junqueira, Andrea, Diana O'Brien, Matthew Hayes, Jongwoo Jeong, Brian Crisp, and Matthew Gable. Forthcoming. "Race, Gender, and Nascent Political Ambition." *British Journal of Political Science*. </font>
@@ -25,6 +38,17 @@ diverse backgrounds.
 </div>
 
 <br /> 
+
+<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. 2025. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Political Behavior*. Available [here](https://link.springer.com/article/10.1007/s11109-024-09959-1).</font> 
+
+<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName7" center> Abstract </button>  
+<div id="BlockName7" class="collapse">  
+
+Does the election of politicians from historically marginalized groups spur others to enter politics? Some political scientists and policymakers posit that the election of women and people of color to prominent political offices can inspire others to run for office, yet prior research has yielded mixed results. We contribute to the literature on representation by exploring the impact of role models on candidate emergence at the local level, where aspiring politicians typically begin to climb the political ladder. Using data from Brazilian elections and a set of regression discontinuity designs, we find no evidence that the election of a woman or Afro-Brazilian mayor spurs women and Afro-Brazilians to run for city council positions. Our results, which are robust to several alternative specifications, suggest that even if the election of a woman or minority politician inspires others to enter politics, barriers may impede them from running for office.
+
+</div>
+
+<br />
 
 
 <font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2025. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. Available [here](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2427022).</font>
@@ -56,17 +80,6 @@ as ideologically closer to the party of the president.
 <div id="BlockName2" class="collapse">  
 
 The party politics literature suggests that an institutionalized party system can be key for well-functioning democracies. Do the benefits of strong parties also extend to women's descriptive representation? We argue that increasing parties' strength can perpetuate and even intensify parties' pre-existing patterns of exclusion of particular groups, including women, when elites are gender-biased. While stronger parties are better able to carry out their organizational goals, we contend that increasing gender equity is often not part of such goals. To evaluate this argument, we combine an exogenous electoral reform that increased parties' ability to control their members in Brazil with a regression discontinuity design. We find that while the reform increased parties' ability to pursue their organizational goals, it increased the gap in votes between men and women. Further, we demonstrate that the behavior of men towards women co-partisans drives this pattern. These findings highlight the unintended consequences of institutional engineering.
-
-</div>
-
-<br /> 
-
-<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. 2024. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Political Behavior*. Available [here](https://link.springer.com/article/10.1007/s11109-024-09959-1).</font> 
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName7" center> Abstract </button>  
-<div id="BlockName7" class="collapse">  
-
-Does the election of politicians from historically marginalized groups spur others to enter politics? Some political scientists and policymakers posit that the election of women and people of color to prominent political offices can inspire others to run for office, yet prior research has yielded mixed results. We contribute to the literature on representation by exploring the impact of role models on candidate emergence at the local level, where aspiring politicians typically begin to climb the political ladder. Using data from Brazilian elections and a set of regression discontinuity designs, we find no evidence that the election of a woman or Afro-Brazilian mayor spurs women and Afro-Brazilians to run for city council positions. Our results, which are robust to several alternative specifications, suggest that even if the election of a woman or minority politician inspires others to enter politics, barriers may impede them from running for office.
 
 </div>
 
@@ -125,16 +138,6 @@ Our analysis of Granger causal ordering between the four variables demonstrates 
 
 <font size="6"> Under Review </font>
 
-<font size="3"> Cunha Silva, Patrick, Andrew Janusz, and Andrea Junqueira. "Intersectional Institutionalism: How District Magnitude Affects the Representation of Marginalized Groups." *Under Contract with Cambridge University Press*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName20" center> Abstract </button>  
-<div id="BlockName20" class="collapse">  
-
-</div>
-
-<br /> 
-
-
 <font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "Preventing a War of All Against All: Geographic Sorting in OLPR Electoral Systems." *Under review*. </font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName10" center> Abstract </button>  
@@ -147,7 +150,7 @@ In open-list proportional representation (OLPR) systems, candidates must obtain 
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Ali Kagalwala, Andrew Philips, and Guy Whitten. "Endogenous Pie: Modeling Simultaneity in Dynamic Models of Compositional Outcomes." *Under Review*. </font>
+<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. "Endogenous Pie: Modeling Simultaneity in Dynamic Models of Compositional Outcomes." *Under Review*. </font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName12" center> Abstract </button>  
 <div id="BlockName12" class="collapse">  
@@ -163,52 +166,34 @@ autoregression framework. We demonstrate the utility of our modeling approach wi
 
 <font size="6"> Selected Work in Progress</font>
 
+<font size="3"> Junqueira, Andrea. "Who Gets Seen? Incumbency Advantage and the Limits of Public Campaign Finance for Representation, " *In Progress*. </font>
+
+<br /> 
+
+
 <font size="3"> Junqueira, Andrea. "The Political Economy of the Heavy Hand: How Poverty Reduces Politicians' Incentives to Reform Security Policies." *In Progress*. </font>
 
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName5" center> Abstract </button>  
-<div id="BlockName5" class="collapse">  
+<br /> 
 
-In democracies, how can coercive security policies that violate the rights of many be so pervasive, even when those most affected by their negative consequences are a large share of the population? I argue that the explanation can be found by examining voters' incentives to demand security vis-a-vis other policies. Among low-income citizens, security concerns compete with other immediate needs, including food and shelter, thereby reducing the relative importance of violence as the primary driver of political demands. In response, strategic politicians become less responsive to the preferences of the poor on this policy dimension. With a multi-method research approach, I test the implications of my theory using a difference-in-differences-in-differences (DDD) design of electoral results and an original survey experiment with politicians. I find that low-income voters are less responsive to violence shocks and that politicians emphasize security concerns less when trying to attract the vote of low-income citizens relative to the wealthy.
 
-</div>
+<font size="3"> Junqueira, Andrea and Christine Lipsmeyer. "Legal Equality and Effective Inequality: Mapping Representation Across Neighborhoods in Brazil." *In progress*. </font>
 
 <br /> 
 
 
-<font size="3"> Cooperman, Alicia, Andrea Junqueira, Thiago Moreira, and Manuela Munoz. "How do Mega Cities Decentralize Local Representation? Precinct-Level Voting Behavior and Municipal Service Provision: Evidence from Brazil and Colombia." *In progress*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName11" center> Abstract </button>  
-<div id="BlockName11" class="collapse">  
-
-Rapid urbanization increases the need to produce public goods, particularly in developing countries, where underprovision and unequal access to services are common. Many public services and development projects are tied to specific neighborhoods, where citizens vote at polling stations whose vote shares are publicly known. We argue that even in "at large electoral systems," the local nature of public services provision creates incentives for voters to demand narrow local representation and for local politicians to respond to specific requests and interests of a given group of constituencies within the city, often at the expense of others. We test our expectations by exploring variation in sub-municipal service provision in three major cities in Latin America: Sao Paulo, Bogota, and Fortaleza. Our manuscript focuses on our empirical findings and the complex challenges facing scholars studying sub-municipal outcomes in multiple cases. Our results speak to the difficulties of overcoming underdevelopment and achieving democratic consolidation in the global south.
-
-</div>
+<font size="3"> Cooperman, Alicia, Andrea Junqueira, Thiago Moreira, and Manuela Munoz. "Local Distributive Politics: Municipal Legislative Behavior and Neighborhood Service Provision in Brazil." *In progress*. </font>
 
 <br /> 
-
-
-
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. "Coalition Governance, Economic Voting, and Costs of Ruling in Presidential and Parliamentary Regimes." *In progress*. </font>
-
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName9" center> Abstract </button>  
-<div id="BlockName9" class="collapse">  
-
-Throughout the democratic world, the modal government is a coalition of two or more political parties. Such cooperative arrangements between political rivals create challenges for voters attempting to evaluate their government's performance and have motivated extensive literature on the costs of ruling and economic voting in conditions where clarity of responsibility for governing outcomes is less than clear. Although this literature has advanced our understanding of the relevant dynamics on how voters identify who is responsible for implementing policies and how they appropriately reward or punish the government for its performance, the vast majority of what we know about these dynamics comes from data on parliamentary regimes. In this project, we will compare these dynamics between presidential and parliamentary regimes. Presidential democracies are fundamentally different from parliamentary democracies in that the chief executive is elected separately from the legislature and serves for a fixed term. These features raise interesting questions about how voters hold governments accountable, especially when the government is a coalition. To answer these questions, we leverage a new collection of data on election results from presidential and parliamentary regimes that spans over 70 years (1949-2020), augmented by survey data on voters' knowledge about governments in these two regime types.
-
-</div>
-
-<br /> 
-
 
 
 <font size="3"> Cheibub, Jose, Andrea Junqueira, and Thiago Moreira. "Legal Equality and Effective Inequality: Mapping Representation Across Neighborhoods in Brazil." *In progress*. </font>
 
-<button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName13" center> Abstract </button>  
-<div id="BlockName13" class="collapse">  
-
-
-
-</div>
-
 <br /> 
+
+
+
+
+
+
+
 

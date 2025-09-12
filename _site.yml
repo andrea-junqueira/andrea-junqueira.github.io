@@ -12,11 +12,7 @@ navbar:
       href: research.html
     
     - text: "Teaching"
-      menu:
-        - text: "Experience"
-          href: teaching.html
-        - text: "Resources"
-          href: resources_teaching.html
+      href: teaching.html
 
     - text: "CV"
       href: "./Junqueira_CV.pdf"
