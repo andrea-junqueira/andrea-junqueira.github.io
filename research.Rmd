@@ -4,7 +4,7 @@ title: ""
 
 <font size="6"> Book</font>
 
-<font size="3"> Cunha Silva, Patrick, Andrew Janusz, and Andrea Junqueira. "Intersectional Institutionalism: How District Magnitude Affects the Representation of Marginalized Groups." *Under Contract with Cambridge University Press*. </font>
+<font size="3"> Cunha Silva, Patrick, Andrew Janusz, and Andrea Junqueira. "Intersectional Institutionalism: How District Magnitude Affects the Representation of Marginalized Groups." Under contract with *Cambridge University Press*. </font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName20" center> Abstract </button>  
 <div id="BlockName20" class="collapse">  
@@ -28,7 +28,7 @@ How do race and gender together shape Americans' political ambition? Using origi
 
 <br /> 
 
-<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. 2025. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Political Behavior*. Available [here](https://link.springer.com/article/10.1007/s11109-024-09959-1).</font> 
+<font size="3"> Janusz, Andrew, Patrick Cunha Silva, and Andrea Junqueira. 2025. "Electoral Role Models: Political Empowerment and Candidate Emergence." *Political Behavior*, 47(2), 573-598. Available [here](https://link.springer.com/article/10.1007/s11109-024-09959-1).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName7" center> Abstract </button>  
 <div id="BlockName7" class="collapse">  
@@ -40,7 +40,7 @@ Does the election of politicians from historically marginalized groups spur othe
 <br />
 
 
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2025. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*. Available [here](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2427022).</font>
+<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2025. "Coalition as a Heuristic: Voters' Perceptions of Party Positions in Presidential Multiparty Democracies." *Journal of Elections, Public Opinion, and Parties*, 35(2), 288-307. Available [here](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2427022).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName14" center> Abstract </button>  
 <div id="BlockName14" class="collapse">  
@@ -63,7 +63,7 @@ as ideologically closer to the party of the president.
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. 2024. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
+<font size="3"> Junqueira, Andrea, and Patrick Cunha Silva. 2024. "Strengthening the Party, Weakening the Women: Unforeseen Consequences of Strengthening Institutions." *The Journal of Politics*, 86(2), 734-748. Available [here](https://www.journals.uchicago.edu/doi/10.1086/726966).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName2" center> Abstract </button>  
 <div id="BlockName2" class="collapse">  
@@ -75,7 +75,7 @@ The party politics literature suggests that an institutionalized party system ca
 <br /> 
 
 
-<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. 2024. "Volatile Pies: Modeling Compositional Volatility." *Social Science Quarterly*. Available [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13406).</font> 
+<font size="3"> Eastman, Abbie, Andrea Junqueira, Ali Kagalwala, Andrew Philips, and Guy Whitten. 2024. "Volatile Pies: Modeling Compositional Volatility." *Social Science Quarterly*, 105(4), 965-979. Available [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.13406).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName6" center> Abstract </button>  
 <div id="BlockName6" class="collapse">  
@@ -87,7 +87,7 @@ The party politics literature suggests that an institutionalized party system ca
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Ali Kagalwala, and Christine Lipsmeyer. 2023. "What's Your Problem? How Issue Ownership and Partisan Discourse Influence Personal Concerns." *Social Science Quarterly*. Available [here](https://doi.org/10.1111/ssqu.13259).</font>
+<font size="3"> Junqueira, Andrea, Ali Kagalwala, and Christine Lipsmeyer. 2023. "What's Your Problem? How Issue Ownership and Partisan Discourse Influence Personal Concerns." *Social Science Quarterly*, 104(1), 25-37. Available [here](https://doi.org/10.1111/ssqu.13259).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName3" center> Abstract </button>  
 <div id="BlockName3" class="collapse">  
@@ -99,7 +99,7 @@ The party politics literature suggests that an institutionalized party system ca
 <br /> 
 
 
-<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2023. "What About Us? Political Competition, Economic Performance, Immigration, and Nativist Appeals." *Social Science Quarterly*. Available [here](https://doi.org/10.1111/ssqu.13240).</font>
+<font size="3"> Junqueira, Andrea, Thiago Silva, and Guy Whitten. 2023. "What About Us? Political Competition, Economic Performance, Immigration, and Nativist Appeals." *Social Science Quarterly*, 104(1), 11-24. Available [here](https://doi.org/10.1111/ssqu.13240).</font>
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName4" center> Abstract </button>  
 <div id="BlockName4" class="collapse">  
@@ -112,7 +112,7 @@ parties and how economic performance shapes nativist appeals by opposition parti
 <br /> 
 
 
-<font size="3"> Barberia, Lorena, Maria Leticia Claro Oliveira, Andrea Junqueira, Natalia Moreria, and Guy Whitten. 2021. "Should I Stay or Should I Go? Embracing Causal Heterogeneity in the Study of Pandemic Policy and Citizen Behavior." *Social Science Quarterly*. Available [here](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13037).</font> 
+<font size="3"> Barberia, Lorena, Maria Leticia Claro Oliveira, Andrea Junqueira, Natalia Moreria, and Guy Whitten. 2021. "Should I Stay or Should I Go? Embracing Causal Heterogeneity in the Study of Pandemic Policy and Citizen Behavior." *Social Science Quarterly*, 102(5), 2055-2069. Available [here](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13037).</font> 
 
 <button class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#BlockName" center> Abstract </button>  
 <div id="BlockName" class="collapse">  
